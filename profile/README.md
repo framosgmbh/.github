@@ -10,7 +10,7 @@
 
 | Description                           | Repository                                                   |
 |---------------------------------------|--------------------------------------------------------------|
-| Framos drivers - source files for L4T | [nvidia-jetson](https://github.com/framosgmbh/nvidia-jetson) |
+| Framos drivers - source files for L4T | [framos-jetson](https://github.com/framosgmbh/framos-jetson) |
 | Framos LibSV Applications             | [framos-libsv](https://github.com/framosgmbh/libsv)          |
 
 -------------------------------------------------------------------------------------------------------
