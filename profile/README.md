@@ -11,14 +11,14 @@
 | Description                           | Repository                                                   |
 |---------------------------------------|--------------------------------------------------------------|
 | Framos drivers - source files for L4T | [nvidia-jetson](https://github.com/framosgmbh/nvidia-jetson) |
-| Framos LibSV Applications             | [libsv](https://github.com/framosgmbh/libsv)                 |
+| Framos LibSV Applications             | [framos-libsv](https://github.com/framosgmbh/libsv)          |
 
 -------------------------------------------------------------------------------------------------------
 
 <img src="https://www.intelrealsense.com/wp-content/uploads/2024/01/realsense-sparked-rgb-onlight-378px.png" width="250">
 
-| Description  | Repository                                                   |
-|--------------|--------------------------------------------------------------|
-| librealsense | [librealsense](https://github.com/framosgmbh/librealsense)   |
+| Description  | Repository                                                 |
+|--------------|------------------------------------------------------------|
+| librealsense | [librealsense](https://github.com/framosgmbh/librealsense) |
 
 -------------------------------------------------------------------------------------------------------
