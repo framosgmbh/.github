@@ -2,7 +2,7 @@
 
 | Description   | Repository                                                   |
 |---------------|--------------------------------------------------------------|
-| Documentation | [documentation](https://github.com/framosgmbh/documentation) |
+| Documentation | [documentation](https://github.com/framosgmbh/documentation.git) |
 
 -------------------------------------------------------------------------------------------------------
 
@@ -10,8 +10,8 @@
 
 | Description                           | Repository                                                   |
 |---------------------------------------|--------------------------------------------------------------|
-| Framos drivers - source files for L4T | [framos-jetson](https://github.com/framosgmbh/framos-jetson) |
-| Framos LibSV Applications             | [framos-libsv](https://github.com/framosgmbh/libsv)          |
+| Framos drivers - source files for L4T | [framos-jetson-drivers](https://github.com/framosgmbh/framos-jetson-drivers.git) |
+| Framos LibSV Applications             | [framos-libsv](https://github.com/framosgmbh/libsv.git)          |
 
 -------------------------------------------------------------------------------------------------------
 
@@ -19,6 +19,6 @@
 
 | Description  | Repository                                                 |
 |--------------|------------------------------------------------------------|
-| librealsense | [librealsense](https://github.com/framosgmbh/librealsense) |
+| librealsense | [librealsense](https://github.com/framosgmbh/librealsense.git) |
 
 -------------------------------------------------------------------------------------------------------
