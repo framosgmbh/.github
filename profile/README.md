@@ -1,24 +1,24 @@
 -------------------------------------------------------------------------------------------------------
 
-| Description        | Repository                                                   |
-|--------------------|--------------------------------------------------------------|
-| Documentation      | [documentation](https://github.com/framosgmbh/documentation) |
+| Description   | Repository                                                   |
+|---------------|--------------------------------------------------------------|
+| Documentation | [documentation](https://github.com/framosgmbh/documentation) |
 
 -------------------------------------------------------------------------------------------------------
 
 <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-horiz-500x200-2c50-d.png" width="250">
 
-| Description        | Repository                                                   |
-|--------------------|--------------------------------------------------------------|
-| Drivers source     | [nvidia-jetson](https://github.com/framosgmbh/nvidia-jetson) |
-| LibSV Applications | [libsv](https://github.com/framosgmbh/libsv)                 |
+| Description                           | Repository                                                   |
+|---------------------------------------|--------------------------------------------------------------|
+| Framos drivers - source files for L4T | [nvidia-jetson](https://github.com/framosgmbh/nvidia-jetson) |
+| Framos LibSV Applications             | [libsv](https://github.com/framosgmbh/libsv)                 |
 
 -------------------------------------------------------------------------------------------------------
 
 <img src="https://www.intelrealsense.com/wp-content/uploads/2024/01/realsense-sparked-rgb-onlight-378px.png" width="250">
 
-| Description        | Repository                                                   |
-|--------------------|--------------------------------------------------------------|
-| librealsense       | [librealsense](https://github.com/framosgmbh/librealsense)   |
+| Description  | Repository                                                   |
+|--------------|--------------------------------------------------------------|
+| librealsense | [librealsense](https://github.com/framosgmbh/librealsense)   |
 
 -------------------------------------------------------------------------------------------------------
